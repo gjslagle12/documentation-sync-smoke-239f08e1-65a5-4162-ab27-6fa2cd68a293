@@ -1,1 +1,2 @@
 # Synthetic fixture: SiteDocumentation/source/membership-tiers-and-capabilities.md
+Approved synthetic update.
